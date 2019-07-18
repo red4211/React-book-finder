@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding-top: 20px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bookList{
+  list-style: none;
+}
+
+.bookList img{
+  display: block;
+  float: left;
+}
+
+.bookList li{
+  overflow: hidden;
+  width: 1200px;
+  margin: 0 auto 20px auto;
+  background: #f2f2f2;
+}
+
+.bookList li p{
+  padding-left: 138px;
+  text-align:left;
+}
+
+.title{
+  font-weight: bold;
+  font-size: 24px;
+  margin: 5px 0 10px 0;
+}
