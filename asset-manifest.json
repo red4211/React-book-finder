@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-book-finder/static/css/main.eddc03a3.chunk.css",
+    "main.js": "/React-book-finder/static/js/main.7506cc9a.chunk.js",
+    "main.js.map": "/React-book-finder/static/js/main.7506cc9a.chunk.js.map",
+    "runtime~main.js": "/React-book-finder/static/js/runtime~main.ebf2df60.js",
+    "runtime~main.js.map": "/React-book-finder/static/js/runtime~main.ebf2df60.js.map",
+    "static/js/2.c37e57dd.chunk.js": "/React-book-finder/static/js/2.c37e57dd.chunk.js",
+    "static/js/2.c37e57dd.chunk.js.map": "/React-book-finder/static/js/2.c37e57dd.chunk.js.map",
+    "index.html": "/React-book-finder/index.html",
+    "precache-manifest.0319cedff979fcc95437f57d04c01e87.js": "/React-book-finder/precache-manifest.0319cedff979fcc95437f57d04c01e87.js",
+    "service-worker.js": "/React-book-finder/service-worker.js",
+    "static/css/main.eddc03a3.chunk.css.map": "/React-book-finder/static/css/main.eddc03a3.chunk.css.map"
+  }
+}
